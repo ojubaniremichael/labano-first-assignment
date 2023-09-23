@@ -1,0 +1,107 @@
+.section1 {
+    background-color: gray;
+    margin-top: 0%;
+    padding: auto;
+}
+
+.section2 {
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 0px;
+    padding: 0%;
+
+}
+
+h2 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    text-size-adjust: 20px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: aqua;
+    border: none;
+    border-radius: 10px;
+}
+
+img {
+    width: 450px;
+    margin: auto;
+    margin-left: 500px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+
+
+h3 {
+    text-align: center;
+    text-decoration: solid;
+}
+
+.aboutme {
+    text-align: center;
+    text-decoration: solid;
+
+}
+
+table {
+    margin: auto;
+    width: 75%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+th {
+    background-color: aqua;
+    padding: 8px;
+}
+
+td {
+    background-color: cadetblue;
+    padding: 8px;
+}
+
+tr {
+    border: 1px solid black;
+}
+
+form {
+    margin: auto;
+    margin-top: 20px;
+    width: 300px;
+    margin-bottom: 20px;
+    padding: 10px;
+
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.submit {
+    background-color: rgb(57, 193, 218);
+    color: #fff;
+    padding: 10px 20px;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+
+
+}
